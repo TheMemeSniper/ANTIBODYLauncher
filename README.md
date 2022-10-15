@@ -2,6 +2,10 @@
 
 ANTIBODY Launcher is the Swiss Army Knife of any tomfoolery. It allows you to run scripts, download script packages, upload files through FTP, run forkbombs, and more.
 
+# Required Modules
+- `colorama`
+- `requests`
+
 # Important Notice
 
 I am not responsible for any damage this program may cause. You know full damn well what launching a forkbomb on a school SMB file share means.
