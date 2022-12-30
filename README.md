@@ -1,5 +1,7 @@
 # ![abllogo](https://user-images.githubusercontent.com/67394719/195962007-93bb9bbe-e0b7-4c05-aa6d-df66f6724914.png) ANTIBODY Launcher
 
+## this shit code is being rewritten! feel free to pass out from how bad it is currently
+
 ANTIBODY Launcher is the Swiss Army Knife of any tomfoolery. It allows you to run scripts, download script packages, upload files through FTP, run forkbombs, and more.
 
 # Required Modules
